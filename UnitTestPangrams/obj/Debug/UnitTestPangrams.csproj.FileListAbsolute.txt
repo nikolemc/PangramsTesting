@@ -1,0 +1,15 @@
+C:\Users\Nikole McStanley\tiy\week-9\PangramsTesting\UnitTestPangrams\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nikole McStanley\tiy\week-9\PangramsTesting\UnitTestPangrams\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nikole McStanley\tiy\week-9\PangramsTesting\UnitTestPangrams\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nikole McStanley\tiy\week-9\PangramsTesting\UnitTestPangrams\bin\Debug\UnitTestPangrams.dll
+C:\Users\Nikole McStanley\tiy\week-9\PangramsTesting\UnitTestPangrams\bin\Debug\UnitTestPangrams.pdb
+C:\Users\Nikole McStanley\tiy\week-9\PangramsTesting\UnitTestPangrams\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Nikole McStanley\tiy\week-9\PangramsTesting\UnitTestPangrams\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Nikole McStanley\tiy\week-9\PangramsTesting\UnitTestPangrams\bin\Debug\PangramsTesting.exe
+C:\Users\Nikole McStanley\tiy\week-9\PangramsTesting\UnitTestPangrams\bin\Debug\PangramsTesting.pdb
+C:\Users\Nikole McStanley\tiy\week-9\PangramsTesting\UnitTestPangrams\bin\Debug\PangramsTesting.exe.config
+C:\Users\Nikole McStanley\tiy\week-9\PangramsTesting\UnitTestPangrams\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Nikole McStanley\tiy\week-9\PangramsTesting\UnitTestPangrams\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Nikole McStanley\tiy\week-9\PangramsTesting\UnitTestPangrams\obj\Debug\UnitTestPangrams.csprojResolveAssemblyReference.cache
+C:\Users\Nikole McStanley\tiy\week-9\PangramsTesting\UnitTestPangrams\obj\Debug\UnitTestPangrams.dll
+C:\Users\Nikole McStanley\tiy\week-9\PangramsTesting\UnitTestPangrams\obj\Debug\UnitTestPangrams.pdb

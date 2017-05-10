@@ -1,0 +1,6 @@
+C:\Users\Nikole McStanley\tiy\week-9\PangramsTesting\PangramsTesting\bin\Debug\PangramsTesting.exe.config
+C:\Users\Nikole McStanley\tiy\week-9\PangramsTesting\PangramsTesting\bin\Debug\PangramsTesting.exe
+C:\Users\Nikole McStanley\tiy\week-9\PangramsTesting\PangramsTesting\bin\Debug\PangramsTesting.pdb
+C:\Users\Nikole McStanley\tiy\week-9\PangramsTesting\PangramsTesting\obj\Debug\PangramsTesting.csprojResolveAssemblyReference.cache
+C:\Users\Nikole McStanley\tiy\week-9\PangramsTesting\PangramsTesting\obj\Debug\PangramsTesting.exe
+C:\Users\Nikole McStanley\tiy\week-9\PangramsTesting\PangramsTesting\obj\Debug\PangramsTesting.pdb
