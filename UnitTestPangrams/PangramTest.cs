@@ -17,5 +17,39 @@ namespace UnitTestPangrams
             //Assert
             Assert.AreEqual(isPangram, "pangram");
         }
+
+        [TestMethod]
+        public void TestMethod2AllUpper()
+        {
+            //Arange
+            var sentenceTest = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+            //Act
+            var isPangram = Pangram.PangramSolution(sentenceTest);
+            //Assert
+            Assert.AreEqual(isPangram, "pangram");
+        }
+
+        [TestMethod]
+        public void TestMethod3AllLower()
+        {
+            //Arange
+            var sentenceTest = "abcdefghijklmnopqrstuvwxyz";
+            //Act
+            var isPangram = Pangram.PangramSolution(sentenceTest);
+            //Assert
+            Assert.AreEqual(isPangram, "pangram");
+        }
+
+        [TestMethod]
+        public void TestMethodMixnMatch()
+        {
+            //Arange
+            var sentenceTest = "abcdeFghijKlmnopqrstuvWXYZ";
+            //Act
+            var isPangram = Pangram.PangramSolution(sentenceTest);
+            //Assert
+            Assert.AreEqual(isPangram, "pangram");
+        }
     }
+
 }
